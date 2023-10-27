@@ -391,7 +391,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-about,
 #fh5co-contact,
 #fh5co-footer {
-  padding: 7em 0;
+  padding: 7em 0 0 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
@@ -697,6 +697,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #fh5co-footer {
   background: #efefef;
+  padding: 7em 0 4em 0;
 }
 #fh5co-footer .fh5co-footer-links {
   padding: 0;
@@ -1294,5 +1295,21 @@ blockquote .person cite {
   padding: 0;
   margin: 0 0 5px 0;
 }
+
+#fh5co-author h2 {
+  margin-top: 48px;
+}
+#fh5co-author h3 {
+  margin-top: 24px;
+}
+
+#fh5co-author h4 {
+  margin-top: 16px;
+}
+
+#fh5co-author {
+  padding: 7em 0 4em 0;
+}
+
 
 /*# sourceMappingURL=style.css.map */
