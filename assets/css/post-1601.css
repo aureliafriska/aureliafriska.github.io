@@ -1,0 +1,363 @@
+.elementor-1601 .elementor-element.elementor-element-89a43ce>.elementor-container {
+    min-height: 100vh;
+}
+
+.elementor-1601 .elementor-element.elementor-element-89a43ce:not(.elementor-motion-effects-element-type-background),
+.elementor-1601 .elementor-element.elementor-element-89a43ce>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-1601 .elementor-element.elementor-element-89a43ce {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1601 .elementor-element.elementor-element-89a43ce>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1601 .elementor-element.elementor-element-df86573 .elementor-heading-title {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-text-font-family);
+    font-size: 56px;
+    font-weight: bold;
+    line-height: 1em;
+}
+
+.elementor-1601 .elementor-element.elementor-element-3e9c360 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-1601 .elementor-element.elementor-element-dbf9136 {
+    text-align: right;
+}
+
+.elementor-1601 .elementor-element.elementor-element-dbf9136 .elementor-heading-title {
+    color: var(--e-global-color-primary);
+    font-size: 150px;
+    font-weight: bold;
+    line-height: 1em;
+}
+
+.elementor-1601 .elementor-element.elementor-element-e5be12e {
+    text-align: right;
+}
+
+.elementor-1601 .elementor-element.elementor-element-e5be12e .elementor-heading-title {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-text-font-family);
+    font-size: 56px;
+    font-weight: bold;
+    line-height: 1em;
+}
+
+.elementor-1601 .elementor-element.elementor-element-b113fda .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-1601 .elementor-element.elementor-element-b113fda .elementor-icon {
+    font-size: 140px;
+}
+
+.elementor-1601 .elementor-element.elementor-element-b113fda .elementor-icon i,
+.elementor-1601 .elementor-element.elementor-element-b113fda .elementor-icon svg {
+    transform: rotate(0deg);
+}
+
+body:not(.rtl) .elementor-1601 .elementor-element.elementor-element-b113fda {
+    left: -336px;
+}
+
+body.rtl .elementor-1601 .elementor-element.elementor-element-b113fda {
+    right: -336px;
+}
+
+.elementor-1601 .elementor-element.elementor-element-b113fda {
+    top: 171px;
+}
+
+.elementor-1601 .elementor-element.elementor-element-8362a08 {
+    padding: 30px 0px 200px 0px;
+}
+
+.elementor-1601 .elementor-element.elementor-element-c0479ee>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 16px;
+}
+
+.elementor-1601 .elementor-element.elementor-element-020a4a8 .elementor-heading-title {
+    color: var(--e-global-color-secondary);
+    font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var(--e-global-typography-secondary-font-size);
+    font-weight: var(--e-global-typography-secondary-font-weight);
+    line-height: var(--e-global-typography-secondary-line-height);
+}
+
+.elementor-1601 .elementor-element.elementor-element-f696f21 .elementor-heading-title {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-secondary-font-family);
+    font-size: 36px;
+    font-weight: var(--e-global-typography-245b1d6-font-weight);
+    line-height: var(--e-global-typography-245b1d6-line-height);
+    letter-spacing: var(--e-global-typography-245b1d6-letter-spacing);
+    word-spacing: var(--e-global-typography-245b1d6-word-spacing);
+}
+
+.elementor-1601 .elementor-element.elementor-element-f0f35b9 .m-neuron-gallery__thumbnail--link {
+    padding-bottom: calc(0.56 * 100%);
+}
+
+.elementor-1601 .elementor-element.elementor-element-26bc3c7 {
+    padding: 120px 0px 200px 0px;
+}
+
+.elementor-1601 .elementor-element.elementor-element-8a59af5>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 40px;
+}
+
+.elementor-1601 .elementor-element.elementor-element-c9ebb78 .elementor-heading-title {
+    color: var(--e-global-color-secondary);
+    font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var(--e-global-typography-secondary-font-size);
+    font-weight: var(--e-global-typography-secondary-font-weight);
+    line-height: var(--e-global-typography-secondary-line-height);
+}
+
+.elementor-1601 .elementor-element.elementor-element-72cdd41 .m-neuron-interactive-posts span+span:before {
+    content: "/";
+}
+
+.elementor-1601 .elementor-element.elementor-element-72cdd41.m-neuron-interactive-posts--vertical .m-neuron-interactive-posts__item:not(:last-of-type) {
+    padding-bottom: 0px;
+}
+
+.elementor-1601 .elementor-element.elementor-element-72cdd41.m-neuron-interactive-posts--horizontal .m-neuron-interactive-posts__item:not(:last-of-type) {
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+.elementor-1601 .elementor-element.elementor-element-72cdd41 .m-neuron-interactive-posts__image {
+    background-size: cover;
+}
+
+.elementor-1601 .elementor-element.elementor-element-72cdd41 .m-neuron-interactive-posts__title {
+    color: var(--e-global-color-primary);
+    font-family: "Space Grotesk", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.5em;
+    letter-spacing: -0.5px;
+}
+
+.elementor-1601 .elementor-element.elementor-element-72cdd41 .m-neuron-interactive-posts__meta-data,
+.elementor-1601 .elementor-element.elementor-element-72cdd41 .m-neuron-interactive-posts__meta-data a {
+    color: var(--e-global-color-secondary);
+}
+
+.elementor-1601 .elementor-element.elementor-element-72cdd41 .m-neuron-interactive-posts__meta-data {
+    font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var(--e-global-typography-secondary-font-size);
+    font-weight: var(--e-global-typography-secondary-font-weight);
+    line-height: var(--e-global-typography-secondary-line-height);
+}
+
+.elementor-1601 .elementor-element.elementor-element-72cdd41 .m-neuron-pagination .page-numbers:not(:first-child) {
+    margin-left: calc(10px/2);
+}
+
+.elementor-1601 .elementor-element.elementor-element-72cdd41 .m-neuron-pagination .page-numbers:not(:last-child) {
+    margin-right: calc(10px/2);
+}
+
+.elementor-1601 .elementor-element.elementor-element-72cdd41>.elementor-widget-container {
+    padding: 32px 0px 0px 0px;
+}
+
+.elementor-1601 .elementor-element.elementor-element-4db57ce .elementor-button {
+    font-family: "Space Grotesk", Sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    line-height: 1em;
+    fill: var(--e-global-color-6d38b28);
+    color: var(--e-global-color-6d38b28);
+    background-color: var(--e-global-color-8e54d07);
+    border-style: solid;
+    border-color: var(--e-global-color-8e54d07);
+    border-radius: 10000000px 10000000px 10000000px 10000000px;
+    padding: 70px 40px 70px 39px;
+}
+
+.elementor-1601 .elementor-element.elementor-element-4db57ce .elementor-button:hover,
+.elementor-1601 .elementor-element.elementor-element-4db57ce .elementor-button:focus {
+    color: var(--e-global-color-8e54d07);
+    background-color: #DD232C00;
+}
+
+.elementor-1601 .elementor-element.elementor-element-4db57ce .elementor-button:hover svg,
+.elementor-1601 .elementor-element.elementor-element-4db57ce .elementor-button:focus svg {
+    fill: var(--e-global-color-8e54d07);
+}
+
+.elementor-1601 .elementor-element.elementor-element-4db57ce>.elementor-widget-container {
+    padding: 80px 0px 0px 0px;
+}
+
+:root {
+    --page-title-display: none;
+}
+
+@media(max-width:1279px) {
+    .elementor-1601 .elementor-element.elementor-element-89a43ce>.elementor-container {
+        min-height: 70vh;
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-df86573 .elementor-heading-title {
+        font-size: 9vw;
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-dbf9136 .elementor-heading-title {
+        font-size: 9vw;
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-e5be12e .elementor-heading-title {
+        font-size: 9vw;
+    }
+
+    body:not(.rtl) .elementor-1601 .elementor-element.elementor-element-b113fda {
+        left: -249px;
+    }
+
+    body.rtl .elementor-1601 .elementor-element.elementor-element-b113fda {
+        right: -249px;
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-b113fda {
+        top: 105px;
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-8362a08 {
+        padding: 0px 0px 82px 0px;
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-020a4a8 .elementor-heading-title {
+        font-size: var(--e-global-typography-secondary-font-size);
+        line-height: var(--e-global-typography-secondary-line-height);
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-f696f21 .elementor-heading-title {
+        font-size: var(--e-global-typography-245b1d6-font-size);
+        line-height: var(--e-global-typography-245b1d6-line-height);
+        letter-spacing: var(--e-global-typography-245b1d6-letter-spacing);
+        word-spacing: var(--e-global-typography-245b1d6-word-spacing);
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-c9ebb78 .elementor-heading-title {
+        font-size: var(--e-global-typography-secondary-font-size);
+        line-height: var(--e-global-typography-secondary-line-height);
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-72cdd41 .m-neuron-interactive-posts__title {
+        font-size: 26px;
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-72cdd41 .m-neuron-interactive-posts__meta-data {
+        font-size: var(--e-global-typography-secondary-font-size);
+        line-height: var(--e-global-typography-secondary-line-height);
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-4db57ce .elementor-button {
+        border-width: 1px 1px 1px 1px;
+    }
+}
+
+@media(max-width:720px) {
+    .elementor-1601 .elementor-element.elementor-element-020a4a8 .elementor-heading-title {
+        font-size: var(--e-global-typography-secondary-font-size);
+        line-height: var(--e-global-typography-secondary-line-height);
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-f696f21 .elementor-heading-title {
+        font-size: var(--e-global-typography-245b1d6-font-size);
+        line-height: var(--e-global-typography-245b1d6-line-height);
+        letter-spacing: var(--e-global-typography-245b1d6-letter-spacing);
+        word-spacing: var(--e-global-typography-245b1d6-word-spacing);
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-c9ebb78 .elementor-heading-title {
+        font-size: var(--e-global-typography-secondary-font-size);
+        line-height: var(--e-global-typography-secondary-line-height);
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-72cdd41 .m-neuron-interactive-posts__title {
+        font-size: 24px;
+    }
+
+    .elementor-1601 .elementor-element.elementor-element-72cdd41 .m-neuron-interactive-posts__meta-data {
+        font-size: var(--e-global-typography-secondary-font-size);
+        line-height: var(--e-global-typography-secondary-line-height);
+    }
+}
+
+/* Start custom CSS for html, class: .elementor-element-3e9c360 */
+/* .elementor-1601 .elementor-element.elementor-element-3e9c360 canvas {
+    float: right;
+} */
+
+/* End custom CSS */
+/* Start custom CSS for icon, class: .elementor-element-b113fda */
+.elementor-1601 .elementor-element.elementor-element-b113fda svg {
+    animation: spin 4s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for neuron-interactive-posts, class: .elementor-element-72cdd41 */
+.elementor-1601 .elementor-element.elementor-element-72cdd41 article {
+    border-top: 1px solid #E5E5E5;
+    padding: 24px 0 !important;
+}
+
+.elementor-1601 .elementor-element.elementor-element-72cdd41 .m-neuron-interactive-posts__meta-data {
+    position: absolute;
+    right: 0;
+}
+
+.elementor-1601 .elementor-element.elementor-element-72cdd41 article:last-child {
+    border-bottom: 1px solid #E5E5E5;
+}
+
+.elementor-1601 .elementor-element.elementor-element-72cdd41 article:before {
+    counter-increment: article;
+    content: "0" counter(article) ".";
+    color: black;
+    font-size: 30px;
+    line-height: 1.4;
+    font-weight: 600;
+    padding-right: 4px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-26bc3c7 */
+section {
+    counter-reset: article;
+}
+
+/* End custom CSS */
+/* Start custom CSS */
+body.elementor-page-1601 header {
+    position: absolute;
+    width: 100%;
+}
+
+/* End custom CSS */

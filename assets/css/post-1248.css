@@ -1,0 +1,208 @@
+.elementor-1284 .elementor-element.elementor-element-c77d06d {
+    padding: 120px 0px 56px 0px;
+}
+
+.elementor-1284 .elementor-element.elementor-element-0bb63dd .elementor-heading-title {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-74b00f4-font-family), Sans-serif;
+    font-size: var(--e-global-typography-74b00f4-font-size);
+    font-weight: var(--e-global-typography-74b00f4-font-weight);
+    line-height: var(--e-global-typography-74b00f4-line-height);
+    letter-spacing: var(--e-global-typography-74b00f4-letter-spacing);
+    word-spacing: var(--e-global-typography-74b00f4-word-spacing);
+}
+
+.elementor-bc-flex-widget .elementor-1284 .elementor-element.elementor-element-8fcd2b7.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-1284 .elementor-element.elementor-element-8fcd2b7.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-1284 .elementor-element.elementor-element-8fcd2b7.elementor-column>.elementor-widget-wrap {
+    justify-content: space-between;
+}
+
+.elementor-1284 .elementor-element.elementor-element-8fcd2b7>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-1284 .elementor-element.elementor-element-26d61ac {
+    --divider-border-style: solid;
+    --divider-color: var(--e-global-color-dc99f8e);
+    --divider-border-width: 1px;
+}
+
+.elementor-1284 .elementor-element.elementor-element-26d61ac .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-1284 .elementor-element.elementor-element-26d61ac .elementor-divider {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.elementor-1284 .elementor-element.elementor-element-e4e6fe9 .elementor-heading-title {
+    font-family: "Space Grotesk", Sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.43em;
+}
+
+.elementor-1284 .elementor-element.elementor-element-e4e6fe9>.elementor-widget-container {
+    padding: 32px 72px 30px 72px;
+    border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    border-color: var(--e-global-color-dc99f8e);
+}
+
+.elementor-1284 .elementor-element.elementor-element-e4e6fe9 {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-1284 .elementor-element.elementor-element-5081ad2 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-1284 .elementor-element.elementor-element-5081ad2 .elementor-icon {
+    font-size: 24px;
+}
+
+.elementor-1284 .elementor-element.elementor-element-5081ad2 .elementor-icon i,
+.elementor-1284 .elementor-element.elementor-element-5081ad2 .elementor-icon svg {
+    transform: rotate(0deg);
+}
+
+.elementor-1284 .elementor-element.elementor-element-5081ad2 {
+    width: auto;
+    max-width: auto;
+    align-self: center;
+}
+
+.elementor-1284 .elementor-element.elementor-element-39c6c21 {
+    padding: 0px 0px 120px 0px;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-post .m-neuron-post__thumbnail--link {
+    padding-bottom: calc(0.85 * 100%);
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .l-neuron-grid {
+    margin-right: calc(-0px / 2);
+    margin-left: calc(-0px / 2);
+    margin-bottom: -0px;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .l-neuron-grid__item {
+    padding-right: calc(0px / 2);
+    padding-left: calc(0px / 2);
+    margin-bottom: 0px;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-portfolio__overlay {
+    background-color: var(--e-global-color-primary);
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-portfolio__title {
+    color: var(--e-global-color-6d38b28);
+    font-family: "Space Grotesk", Sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    text-transform: uppercase;
+    line-height: 1.43em;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-pagination .page-numbers:not(:first-child) {
+    margin-left: calc(10px/2);
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-pagination .page-numbers:not(:last-child) {
+    margin-right: calc(10px/2);
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-filters ul li:not(:last-child) {
+    margin-right: 40px;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-filters {
+    margin-bottom: 80px;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-filters ul {
+    justify-content: flex-start;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016>.elementor-widget-container {
+    margin: -56px 0px 0px 0px;
+}
+
+:root {
+    --page-title-display: none;
+}
+
+@media(max-width:1279px) {
+    .elementor-1284 .elementor-element.elementor-element-0bb63dd .elementor-heading-title {
+        font-size: var(--e-global-typography-74b00f4-font-size);
+        line-height: var(--e-global-typography-74b00f4-line-height);
+        letter-spacing: var(--e-global-typography-74b00f4-letter-spacing);
+        word-spacing: var(--e-global-typography-74b00f4-word-spacing);
+    }
+
+    .elementor-1284 .elementor-element.elementor-element-c89be07 {
+        padding: 0px 24px 16px 24px;
+    }
+
+    .elementor-1284 .elementor-element.elementor-element-e4e6fe9 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-portfolio__title {
+        font-size: 13px;
+    }
+}
+
+@media(max-width:720px) {
+    .elementor-1284 .elementor-element.elementor-element-0bb63dd .elementor-heading-title {
+        font-size: var(--e-global-typography-74b00f4-font-size);
+        line-height: var(--e-global-typography-74b00f4-line-height);
+        letter-spacing: var(--e-global-typography-74b00f4-letter-spacing);
+        word-spacing: var(--e-global-typography-74b00f4-word-spacing);
+    }
+
+    .elementor-1284 .elementor-element.elementor-element-c89be07 {
+        padding: 0px 14px 8px 14px;
+    }
+
+    .elementor-1284 .elementor-element.elementor-element-e4e6fe9 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-portfolio__title {
+        font-size: 13px;
+    }
+}
+
+/* Start custom CSS for icon, class: .elementor-element-5081ad2 */
+.elementor-1284 .elementor-element.elementor-element-5081ad2 .elementor-icon {
+    display: -ms-flexbox;
+    display: flex;
+}
+
+/* End custom CSS */
+/* Start custom CSS for neuron-portfolio, class: .elementor-element-b93f016 */
+@media (min-width: 1280px) {
+    .elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-filters {
+        margin-left: 270px;
+    }
+}
+
+@media (max-width: 720px) {
+    .m-neuron-filters ul li {
+        margin-bottom: 18px;
+    }
+}
+
+/* End custom CSS */

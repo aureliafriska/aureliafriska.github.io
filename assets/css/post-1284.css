@@ -1,0 +1,119 @@
+.elementor-1284 .elementor-element.elementor-element-b93f016 .elementor-repeater-item-4c3b5ca:not(.swiper-slide) {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .elementor-repeater-item-6dcd01e:not(.swiper-slide) {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .elementor-repeater-item-ce03cbd:not(.swiper-slide) {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .elementor-repeater-item-419c4bc:not(.swiper-slide) {
+    flex: 0 0 66.67%;
+    max-width: 66.67%;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .elementor-repeater-item-6749e9d:not(.swiper-slide) {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .elementor-repeater-item-d4922be:not(.swiper-slide) {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .elementor-repeater-item-09c1d17:not(.swiper-slide) {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .elementor-repeater-item-ba1070c:not(.swiper-slide) {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .l-neuron-grid {
+    margin-right: calc(-0px / 2);
+    margin-left: calc(-0px / 2);
+    margin-bottom: -0px;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .l-neuron-grid__item {
+    padding-right: calc(0px / 2);
+    padding-left: calc(0px / 2);
+    margin-bottom: 0px;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-portfolio__overlay {
+    background-color: var(--e-global-color-primary);
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-portfolio__title {
+    font-family: "Inter", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 1.2em;
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-pagination .page-numbers:not(:first-child) {
+    margin-left: calc(10px/2);
+}
+
+.elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-pagination .page-numbers:not(:last-child) {
+    margin-right: calc(10px/2);
+}
+
+:root {
+    --page-title-display: none;
+}
+
+@media(max-width:1279px) {
+    .elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-portfolio__title {
+        font-size: 18px;
+    }
+}
+
+@media(max-width:720px) {
+    .elementor-1284 .elementor-element.elementor-element-b93f016 .l-neuron-grid--metro .l-neuron-grid__item {
+        max-width: 50% !important;
+        flex: 0 0 50% !important;
+    }
+
+    .elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-portfolio__title {
+        font-size: 16px;
+    }
+}
+
+/* Start custom CSS for neuron-portfolio, class: .elementor-element-b93f016 */
+.elementor-1284 .elementor-element.elementor-element-b93f016 .l-neuron-grid {
+    min-height: 80vh !important;
+}
+
+@media (min-width: 1279px) {
+    .elementor-1284 .elementor-element.elementor-element-b93f016 .m-neuron-post__thumbnail--link {
+        padding: 0 !important;
+        height: 50vh !important;
+        object-fit: cover;
+    }
+
+    .elementor-1284 .elementor-element.elementor-element-b93f016 .l-neuron-grid__item:nth-child(8) .m-neuron-post__thumbnail--link {
+        height: 50vh !important;
+    }
+
+
+    @media (max-width: 1279px) {
+        .elementor-1284 .elementor-element.elementor-element-b93f016 .l-neuron-grid__item {
+            flex: 0 0 50% !important;
+            max-width: 50% !important;
+        }
+    }
+}
+
+    /* End custom CSS */

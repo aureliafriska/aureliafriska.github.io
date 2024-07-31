@@ -1,0 +1,373 @@
+.elementor-2333 .elementor-element.elementor-element-28f48b7 {
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: var( --e-global-color-dc99f8e );
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 40px 0px 32px 0px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-28f48b7 > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-2333 .elementor-element.elementor-element-38b8979.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-2333 .elementor-element.elementor-element-38b8979.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-2333 .elementor-element.elementor-element-38b8979.elementor-column > .elementor-widget-wrap {
+    justify-content: space-between;
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu .menu-item > a {
+    color: var( --e-global-color-primary );
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu .menu-item.current-menu-item > a {
+    color: var( --e-global-color-primary );
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd.m-neuron-nav-menu--horizontal .m-neuron-nav-menu > ul > li:not(:last-child) {
+    margin-right: 56px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd:not(.m-neuron-nav-menu--horizontal) .m-neuron-nav-menu > ul > li:not(:last-child) {
+    margin-bottom: 56px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu--mobile ul li a, .elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu .sub-menu li a {
+    font-family: var( --e-global-typography-accent-font-family ), Sans-serif;
+    font-size: var( --e-global-typography-accent-font-size );
+    font-weight: var( --e-global-typography-accent-font-weight );
+    line-height: var( --e-global-typography-accent-line-height );
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu--mobile ul li a {
+    color: var( --e-global-color-secondary );
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu .sub-menu li a {
+    color: var( --e-global-color-secondary );
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu--mobile ul li.current-menu-item a {
+    color: var( --e-global-color-primary );
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu .sub-menu li.current-menu-item a {
+    color: var( --e-global-color-primary );
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu--mobile > ul, .elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu > ul .sub-menu {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var( --e-global-color-dc99f8e );
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu--mobile > ul li {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu > ul .sub-menu li {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu--mobile > .m-neuron-nav-menu__list {
+    padding: 8px 8px 16px 8px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu > .m-neuron-nav-menu__list li > .sub-menu {
+    padding: 8px 8px 16px 8px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 48px 0px 0px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-2333 .elementor-element.elementor-element-7a4c02c img {
+    width: 77%;
+}
+
+.elementor-2333 .elementor-element.elementor-element-7a4c02c > .elementor-widget-container {
+    padding: 0px 0px 10px 0px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-7a4c02c {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu .menu-item > a {
+    color: var( --e-global-color-primary );
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu .menu-item.current-menu-item > a {
+    color: var( --e-global-color-primary );
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d.m-neuron-nav-menu--horizontal .m-neuron-nav-menu > ul > li:not(:last-child) {
+    margin-right: 56px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d:not(.m-neuron-nav-menu--horizontal) .m-neuron-nav-menu > ul > li:not(:last-child) {
+    margin-bottom: 56px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu--mobile ul li a, .elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu .sub-menu li a {
+    font-family: var( --e-global-typography-accent-font-family ), Sans-serif;
+    font-size: var( --e-global-typography-accent-font-size );
+    font-weight: var( --e-global-typography-accent-font-weight );
+    line-height: var( --e-global-typography-accent-line-height );
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu--mobile ul li a {
+    color: var( --e-global-color-secondary );
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu .sub-menu li a {
+    color: var( --e-global-color-secondary );
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu--mobile ul li.current-menu-item a {
+    color: var( --e-global-color-primary );
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu .sub-menu li.current-menu-item a {
+    color: var( --e-global-color-primary );
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu--mobile > ul, .elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu > ul .sub-menu {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var( --e-global-color-dc99f8e );
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu--mobile > ul li {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu > ul .sub-menu li {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu--mobile > .m-neuron-nav-menu__list {
+    padding: 8px 8px 16px 8px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu > .m-neuron-nav-menu__list li > .sub-menu {
+    padding: 8px 8px 16px 8px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 48px 0px 0px;
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-2333 .elementor-element.elementor-element-2b51c52 > .elementor-container > .elementor-column > .elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-2333 .elementor-element.elementor-element-2b51c52 {
+    padding: 40px 0px 40px 0px;
+    z-index: 999;
+}
+
+.elementor-2333 .elementor-element.elementor-element-a1bba5e img {
+    width: 100%;
+}
+
+.elementor-2333 .elementor-element.elementor-element-a1bba5e {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-bc-flex-widget .elementor-2333 .elementor-element.elementor-element-aa764ae.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-2333 .elementor-element.elementor-element-aa764ae.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-2333 .elementor-element.elementor-element-aa764ae.elementor-column > .elementor-widget-wrap {
+    justify-content: flex-end;
+}
+
+.elementor-2333 .elementor-element.elementor-element-bc254cd .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-2333 .elementor-element.elementor-element-bc254cd .elementor-icon i, .elementor-2333 .elementor-element.elementor-element-bc254cd .elementor-icon svg {
+    transform: rotate(0deg);
+}
+
+@media(max-width: 1279px) {
+    .elementor-2333 .elementor-element.elementor-element-a002efd.m-neuron-nav-menu--horizontal .m-neuron-nav-menu > ul > li:not(:last-child) {
+        margin-right:24px;
+    }
+
+    .elementor-2333 .elementor-element.elementor-element-a002efd:not(.m-neuron-nav-menu--horizontal) .m-neuron-nav-menu > ul > li:not(:last-child) {
+        margin-bottom: 24px;
+    }
+
+    .elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu--mobile ul li a, .elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu .sub-menu li a {
+        font-size: var( --e-global-typography-accent-font-size );
+        line-height: var( --e-global-typography-accent-line-height );
+    }
+
+    .elementor-2333 .elementor-element.elementor-element-03aa59d.m-neuron-nav-menu--horizontal .m-neuron-nav-menu > ul > li:not(:last-child) {
+        margin-right: 24px;
+    }
+
+    .elementor-2333 .elementor-element.elementor-element-03aa59d:not(.m-neuron-nav-menu--horizontal) .m-neuron-nav-menu > ul > li:not(:last-child) {
+        margin-bottom: 24px;
+    }
+
+    .elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu--mobile ul li a, .elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu .sub-menu li a {
+        font-size: var( --e-global-typography-accent-font-size );
+        line-height: var( --e-global-typography-accent-line-height );
+    }
+}
+
+@media(max-width: 720px) {
+    .elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu--mobile ul li a, .elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu .sub-menu li a {
+        font-size:var( --e-global-typography-accent-font-size );
+        line-height: var( --e-global-typography-accent-line-height );
+    }
+
+    .elementor-2333 .elementor-element.elementor-element-7a4c02c {
+        text-align: left;
+    }
+
+    .elementor-2333 .elementor-element.elementor-element-7a4c02c img {
+        width: 70%;
+    }
+
+    .elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu--mobile ul li a, .elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu .sub-menu li a {
+        font-size: var( --e-global-typography-accent-font-size );
+        line-height: var( --e-global-typography-accent-line-height );
+    }
+
+    .elementor-2333 .elementor-element.elementor-element-7ab5888 {
+        width: 50%;
+    }
+
+    .elementor-2333 .elementor-element.elementor-element-a1bba5e {
+        text-align: left;
+    }
+
+    .elementor-2333 .elementor-element.elementor-element-a1bba5e img {
+        width: 70%;
+    }
+
+    .elementor-2333 .elementor-element.elementor-element-aa764ae {
+        width: 50%;
+    }
+
+    .elementor-2333 .elementor-element.elementor-element-bc254cd .elementor-icon {
+        font-size: 32px;
+    }
+}
+
+/* Start custom CSS for neuron-nav-menu, class: .elementor-element-a002efd */
+.elementor-2333 .elementor-element.elementor-element-a002efd nav ul li:after {
+    counter-increment: nav;
+    content: counter(nav);
+    font-weight: 400;
+    font-size: 13px;
+    color: #000000;
+    position: absolute;
+    top: -22px;
+    left: 0;
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd .sub-menu li:after, .elementor-2333 .elementor-element.elementor-element-a002efd .m-neuron-nav-menu--mega-menu li:after {
+    display: none
+}
+
+.elementor-2333 .elementor-element.elementor-element-a002efd nav ul li.features-menu:after {
+    content: "•";
+    font-size: 25px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for neuron-nav-menu, class: .elementor-element-03aa59d */
+.elementor-2333 .elementor-element.elementor-element-03aa59d nav ul li:after {
+    counter-increment: nav;
+    content: counter(nav);
+    font-weight: 400;
+    font-size: 13px;
+    color: #000000;
+    position: absolute;
+    top: -22px;
+    left: 0;
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d .sub-menu li:after, .elementor-2333 .elementor-element.elementor-element-03aa59d .m-neuron-nav-menu--mega-menu li:after {
+    display: none
+}
+
+.elementor-2333 .elementor-element.elementor-element-03aa59d nav ul li.features-menu:after {
+    content: "•";
+    font-size: 25px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-28f48b7 */
+.elementor-2333 .elementor-element.elementor-element-28f48b7 {
+    counter-reset: nav;
+}
+
+/* End custom CSS */
+/* Start custom CSS for icon, class: .elementor-element-bc254cd */
+.elementor-2333 .elementor-element.elementor-element-bc254cd .elementor-icon {
+    display: block;
+    float: right;
+}
+
+/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-2b51c52 */
+.elementor-2333 .elementor-element.elementor-element-2b51c52.neuron-sticky--effects {
+    padding-top: 32px !important;
+    padding-bottom: 24px !important;
+    background-color: #FFF;
+}
+
+.elementor-2333 .elementor-element.elementor-element-2b51c52 {
+    transition: padding .35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.elementor-2333 .elementor-element.elementor-element-2b51c52 {
+    counter-reset: menu;
+}
+
+/* End custom CSS */
